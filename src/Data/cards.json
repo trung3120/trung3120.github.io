@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "Tôi",
+            "han": "私",
+            "pin": "わたし <watashi>"
+        },
+        {
+            "id": 2,
+            "eng": "Mẹ",
+            "han": "母",
+            "pin": "はは <haha>"
+        },
+        {
+            "id": 3,
+            "eng": "Bố",
+            "han": "父",
+            "pin": "ちち <chichi>"
+        },
+        {
+            "id": 4,
+            "eng": "Anh trai",
+            "han": "兄",
+            "pin": "あに <ani>"
+        },
+        {
+            "id": 5,
+            "eng": "Chị gái",
+            "han": "姉",
+            "pin": "あね <ane>"
+        },
+        {
+            "id": 6,
+            "eng": "Em trai",
+            "han": "弟",
+            "pin": "おとうと <otōto>"
+        },
+        {
+            "id": 7,
+            "eng": "Em gái",
+            "han": "妹",
+            "pin": "いもうと <imōto>"
+        },
+        {
+            "id": 8,
+            "eng": "Ông",
+            "han": "祖父",
+            "pin": "そふ <sofu>"
+        },
+        {
+            "id": 9,
+            "eng": "Bà",
+            "han": "祖母",
+            "pin": "そぼ <sobo>"
+        },
+        {
+            "id": 10,
+            "eng": "Con chó",
+            "han": "犬",
+            "pin": "いぬ <inu>"
+        },
+        {
+            "id": 11,
+            "eng": "Trung Quốc",
+            "han": "中国",
+            "pin": "ちゅうごく <chūgoku>"
+        },
+        {
+            "id": 12,
+            "eng": "Hàn Quốc",
+            "han": "韓国",
+            "pin": "かんこく <kankoku>"
+        },
+        {
+            "id": 13,
+            "eng": "Nhật Bản",
+            "han": "日本",
+            "pin": "にほん <nihon>"
+        },
+        {
+            "id": 14,
+            "eng": "Giáo viên",
+            "han": "先生",
+            "pin": "せんせい <sensei>"
+        },
+        {
+            "id": 15,
+            "eng": "Học sinh",
+            "han": "学生",
+            "pin": "がくせい <gakusei>"
+        },
+        {
+            "id": 16,
+            "eng": "Sinh viên",
+            "han": "大学生",
+            "pin": "だいがくせい <daigakusei>"
+        },
+        {
+            "id": 17,
+            "eng": "Học sinh cấp 3",
+            "han": "高校生",
+            "pin": "こうこうせい <kōkōsei>"
+        },
+        {
+            "id": 18,
+            "eng": "Học sinh cấp 2",
+            "han": "中学生",
+            "pin": "ちゅうがくせい <chūgakusei>"
+        },
+        {
+            "id": 19,
+            "eng": "Học sinh cấp 1",
+            "han": "小学生",
+            "pin": "しょうがくせい <shōgakusei>"
+        },
+        {
+            "id": 20,
+            "eng": "Trường học",
+            "han": "学校",
+            "pin": "がっこう <gakkō>"
+        }
+    ]
+}
